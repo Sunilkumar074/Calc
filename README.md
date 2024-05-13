@@ -1,7 +1,7 @@
 # Ex.08 Design of a Standard Calculator
 ## Date:13-05-2024
-## Name: Blessing Jeffrey Y.L
-## Reg.no: 212223220014
+## Name: Sunil Kumar P.B
+## Reg.no: 212223040213
 ## Department: CSE
 
 ## AIM:
